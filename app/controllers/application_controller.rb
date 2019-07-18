@@ -11,5 +11,5 @@ class ApplicationController < Sinatra::Base
   
 end
 
-class Dog 
+class Dog(name, breed, age) 
 end
